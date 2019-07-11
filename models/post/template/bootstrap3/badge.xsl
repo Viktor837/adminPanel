@@ -1,7 +1,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-<xsl:template match="button">
-<button type="button" class="btn">
+<xsl:template match="badge">
+<span class="badge">
 <xsl:value-of select="."/>
-  </button>
+</span>
 </xsl:template>
 </xsl:stylesheet>
