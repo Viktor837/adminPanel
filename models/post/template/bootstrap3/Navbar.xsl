@@ -12,7 +12,7 @@
       <li><a href="#">Page 1</a></li>
       <li><a href="#">Page 2</a></li>
       <li><a href="#">Page 3</a></li>
-    </ul>9
+    </ul>
   </div>
 </nav> 
 </div></div>

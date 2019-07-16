@@ -7,6 +7,5 @@
     Lorem ipsum dolor text....
 </div> 
 </div></div>
-
 </xsl:template>
 </xsl:stylesheet>

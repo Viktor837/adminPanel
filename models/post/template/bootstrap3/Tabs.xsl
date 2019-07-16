@@ -8,6 +8,6 @@
       <li><a href="#">Menu 2</a></li>
       <li><a href="#">Menu 3</a></li>
     </ul> 
-</div></div>8
+</div></div>
 </xsl:template>
 </xsl:stylesheet>
