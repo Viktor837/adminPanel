@@ -6,6 +6,6 @@
     <div id="demo" class="collapse">
     Lorem ipsum dolor text....
 </div> 
-</div></div>
+</div></div>9
 </xsl:template>
 </xsl:stylesheet>
